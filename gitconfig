@@ -8,8 +8,8 @@
 [apply]
     whitespace = fix
 [user]
-    name = Lee Skillen
-    email = lskillen@vulcanft.com
+    name = Dan McKinney
+    email = dmckinney@cloudsmith.com
 [core]
     editor = vim
     whitespace = trailing-space, space-before-tab
@@ -30,7 +30,7 @@
     confirm = always
     smtpencryption = tls
     smtpserver = smtp.gmail.com
-    smtpuser = lskillen@cloudsmith.io
+    smtpuser = dmckinney@cloudsmith.io
     smtpserverport = 587
     smtpsslcertpath = /etc/ssl/certs/ca-bundle.trust.crt
     suppresscc = self
